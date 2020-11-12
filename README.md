@@ -1,5 +1,5 @@
 # webpack-bundle
-A basic web site starter built with webpack, using SASS and lodash. 
+A basic modularized web site built with webpack, using SASS and lodash. 
 
 ### After git pull, run these commands
 
