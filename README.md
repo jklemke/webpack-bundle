@@ -15,15 +15,15 @@ A basic web site starter built with webpack, using SASS and lodash.
 
 ### directory structure
 
-files to be compiled are in /src
-* entry file for webpack is /src/main.js
-* SASS file is /src/style.scss
+files to be compiled are in `/src`
+* entry file for webpack is `/src/main.js`
+* SASS file is `/src/style.scss`
 
-files for the webite are in /www
-* web site index is /www/index.html
-* webpack output is /www/js/bundle.js
+files for the webite are in `/www`
+* web site index is `/www/index.html`
+* webpack output is `/www/js/bundle.js`
 
-node_modules is in .gitignore (of course!)
+node_modules is in `.gitignore` (of course!)
 
 
 
